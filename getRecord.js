@@ -13,6 +13,6 @@ function putRecords() {
             JSON.parse(xhr.responseText);
         }
     };
-    xhr.send();
+    xhrfg.send();
 }
 
