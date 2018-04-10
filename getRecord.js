@@ -1,5 +1,5 @@
 
-function getRecord() {
+function putRecord() {
     var params = '?app=20&id=100';
     var url = 'https://{subdomain}.kintone.com/k/v1/record.json' + params;
 
